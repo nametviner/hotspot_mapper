@@ -2,12 +2,10 @@ requests
 pandas
 numpy
 datetime
-matplotlib.pyplot
 streamlit
 streamlit_folium
 h3
 folium
-goejson.feature
+goejson
 json
 PIL
-folium.plugins
