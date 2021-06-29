@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import numpy as np
 import datetime as dt
-import matplotlib.pyplot as plt
 import streamlit as st 
 from streamlit_folium import folium_static
 import h3
@@ -10,7 +9,6 @@ import folium
 from folium import Map, Marker, GeoJson, Icon
 from geojson.feature import *
 import json
-from PIL import Image as pilim
 from folium.plugins import MarkerCluster
 
 nen = '138KfYRtN1iWFwsxht2kTk3oRvTBMawhSChqKxQt87QpJFjf3yD'
