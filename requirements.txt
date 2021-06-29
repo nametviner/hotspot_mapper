@@ -1,11 +1,11 @@
-requests
-pandas
-numpy
+requests==2.25.1
+pandas==1.2.4
+numpy==1.20.1
 datetime
-streamlit
-streamlit_folium
-h3
-folium
-geojson
-json
+streamlit==0.83.0
+streamlit_folium==0.83.0
+h3==3.7.3
+folium==0.12.1
+geojson==2.5.0
+simplejson ==3.17.2
 PIL
