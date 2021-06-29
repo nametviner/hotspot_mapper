@@ -6,6 +6,6 @@ streamlit
 streamlit_folium
 h3
 folium
-goejson.feature
+geojson
 json
 PIL
